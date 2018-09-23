@@ -7,6 +7,7 @@ public class test {
         Person person1 = new Person("nin", 18);
 
         System.out.println(person);
+
     }
 
 }
